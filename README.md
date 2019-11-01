@@ -65,15 +65,15 @@ The script normalize the vital columns of the dataset.
 </ul>
 <li><b>Medication.py</b></li>
 <ul>
-The script creats a python dictionary which has the pataient wise data for the time offset when the pataient was given antipyretic doses.
+The script creats a python dictionary which has the patient wise data for the time offset when the patient was given antipyretic doses.
 </ul>
 <li><b>Preprocessing.py</b></li>
 <ul>
-The script takes vital data of pataients and saves the features extracted from the data. 
+The script takes vital data of patients and saves the features extracted from the data. 
 </ul>
 <li><b>Models.py</b></li>
 <ul>
-The script takes the data created by Preprocessing.py and feed it to different models, so that we can compare differerent models on the basis of F1 score and AUROC score models are getting.
+The script takes the data created by Preprocessing.py and feeds it to different models, so that we can compare different models on the basis of F1 score and AUROC score models are getting.
 </ul>
 
 </ul>
